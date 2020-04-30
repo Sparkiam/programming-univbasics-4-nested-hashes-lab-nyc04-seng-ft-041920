@@ -84,7 +84,7 @@ def adding_matz
         :languages => ["C"]
       }
     }
-programmer_hash[]
+programmer_hash[:grace_hopper][:alan_kay][:dennis_ritchie]<< [:yukihiro_matsumoto]
   
   
  programmer_hash 
