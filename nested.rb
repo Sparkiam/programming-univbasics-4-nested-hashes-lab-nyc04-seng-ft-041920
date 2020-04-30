@@ -87,7 +87,8 @@ def adding_matz
 programmer_hash[:yukihiro_matsumoto] = []
 famous = {:known_for => "Ruby"}
 created ={:languages => ["LISP", "C"]
-
+programmer_hash[:yukihiro_matsumoto] << famous 
+programmer_hash[:yukihiro_matsumoto] << created 
   
 
  
